@@ -1,6 +1,6 @@
 # Towards Rotation Invariance in Object Detection - ICCV 2021
 
-Authors: [Agastya Kalra](https://kalraa.github.io), [Guy Stoppi](https://github.com/guystoppi), [Bradley Brown](https://www.bradbrown.ca), [Rishav Aggarwal](https://github.com/rra94), [Achuta Kadambi](https://visual.ee.ucla.edu)
+Authors: [Agastya Kalra](https://kalraa.github.io), [Guy Stoppi](https://github.com/guystoppi), [Bradley Brown](https://www.bradbrown.ca), [Rishav Agarwal](https://github.com/rra94), [Achuta Kadambi](https://visual.ee.ucla.edu)
 
 Links: [paper](https://arxiv.org/abs/2109.13488) / [supplement](https://github.com/akasha-imaging/ICCV2021/blob/main/Supplement.pdf) 
 
