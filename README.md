@@ -2,7 +2,7 @@
 
 Authors: [Agastya Kalra](https://kalraa.github.io), [Guy Stoppi](https://github.com/guystoppi), [Bradley Brown](https://www.bradbrown.ca), [Rishav Agarwal](https://github.com/rra94), [Achuta Kadambi](https://visual.ee.ucla.edu)
 
-Links: [paper](https://arxiv.org/abs/2109.13488) / [supplement](https://github.com/akasha-imaging/ICCV2021/blob/main/Supplement.pdf) 
+Links: [paper](https://arxiv.org/abs/2109.13488) / [supplement](https://github.com/akasha-imaging/ICCV2021/blob/main/Supplement.pdf) / [video](https://youtu.be/VI_4EmgLb8s)
 
 <img width="122" alt="image" src="https://user-images.githubusercontent.com/12487598/135300445-a819f61b-b6ab-472b-bb83-9ce6353273cc.png">
 
